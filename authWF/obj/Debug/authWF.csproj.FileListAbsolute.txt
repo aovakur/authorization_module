@@ -1,0 +1,11 @@
+C:\Users\Andrey\source\repos\authWF\authWF\bin\Debug\authWF.exe.config
+C:\Users\Andrey\source\repos\authWF\authWF\bin\Debug\authWF.exe
+C:\Users\Andrey\source\repos\authWF\authWF\bin\Debug\authWF.pdb
+C:\Users\Andrey\source\repos\authWF\authWF\obj\Debug\authWF.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\authWF\authWF\obj\Debug\authWF.Form1.resources
+C:\Users\Andrey\source\repos\authWF\authWF\obj\Debug\authWF.Properties.Resources.resources
+C:\Users\Andrey\source\repos\authWF\authWF\obj\Debug\authWF.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\authWF\authWF\obj\Debug\authWF.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\authWF\authWF\obj\Debug\authWF.exe
+C:\Users\Andrey\source\repos\authWF\authWF\obj\Debug\authWF.pdb
+C:\Users\Andrey\source\repos\authWF\authWF\obj\Debug\authWF.Form2.resources
